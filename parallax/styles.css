@@ -4,14 +4,11 @@
     box-sizing: border-box;
 }
 
-
-/* css for wrapper */
 #wrapper{
     height:100vh;
     overflow-x: hidden;
     perspective: 10px;
 }
-
 .container{
     position:relative;
     height: 100%;
@@ -53,18 +50,15 @@ section{
     color:white;
     padding:5rem 0;
 }
-
 .secHeading{
     font-size:5rem;
     padding:0 10rem;
 }
-
 .text{
     font-size:1.5rem;
     padding: 0 10rem;
     margin: 5rem 0;
 }
-
 .bg{
     position:relative;
     width:100%;
@@ -73,7 +67,6 @@ section{
     background-size: cover;
     height:500px;
 }
-
 .desc{
     position: absolute;
     background-color: white;   
@@ -85,7 +78,6 @@ section{
     font-size:3.5rem;
     font-weight:600;
 }
-
 .bg1{
     background-image: url(sport-1.jpg);
 }
